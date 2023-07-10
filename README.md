@@ -25,8 +25,6 @@ The PostsJsonSummarizeByDate.ipynb uses groupby function to count the posts by e
 
 (It has a html version for reading)
 
-(It has a html version for reading)
-
 ## The results zip file
 
 In the zip file,there are three files:
