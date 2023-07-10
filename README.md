@@ -25,12 +25,26 @@ The PostsJsonSummarizeByDate.ipynb uses groupby function to count the posts by e
 
 (It has a html version for reading)
 
-## The results zip file
+## The results folder
 
-In the zip file,there are three files:
+In the zip file,there are several files:
+
+The DownloadlogAndOriginalResult.zip file:
 
 monitor.txt : Monitor the downloading process and the download status
 
-posts.json : The downloaded posts in json format
+posts.json : The original downloaded posts in json format
 
-posts.tsv : The extracted and converted file from the json data (use "tab" instead of "comma" to avoid certain text data conflicts)
+ResultsWithFormat.csv : The extracted information from json or nested json data, and convrted into csv file
+
+The 'PandasProfiling' zip files:
+
+They contain the Pandasprofiling summary results for each account
+
+The PostSummarizrByMonth.csv:
+
+It contains the number of posts from each account and reveals the number of each month of each year
+
+The StatisticalSummary.pdf:
+
+The report for the crawled posts
