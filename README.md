@@ -17,6 +17,16 @@ The ProcessTheJsonData.ipynb is for processing the downloaded json data(which ex
 
 The ProcessTheJsonDataTwo.ipynb is for extract the information from the json or nested json data and save the data in the required format.(Please note it extracts a lot of key information)
 
+(It has a html version for reading)
+
+## Posts Summarize By Date
+
+The PostsJsonSummarizeByDate.ipynb uses groupby function to count the posts by each month from each year
+
+(It has a html version for reading)
+
+(It has a html version for reading)
+
 ## The results zip file
 
 In the zip file,there are three files:
